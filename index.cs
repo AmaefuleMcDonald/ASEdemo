@@ -1,1 +1,1 @@
-Console.WriteLine("Hello");
+object p = Console.WriteLine("Hello");
